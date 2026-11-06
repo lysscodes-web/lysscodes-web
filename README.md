@@ -27,10 +27,6 @@ An interactive quiz website developed as part of my NCEA Digital Technology proj
 - **Programming (Learning):** Python
 - **Tools:** GitHub, VS Code
 
-## 📬 Connect with Me
-- 📧 Email: duncanalyssa98@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/alyssa-duncan-4bb84b449/
-
 ## 💻 Tech Stack
 
 ### 🌐 Languages & Web Development
@@ -48,3 +44,7 @@ An interactive quiz website developed as part of my NCEA Digital Technology proj
 - Improving my JavaScript fundamentals.
 - Developing my Python programming skills.
 - Exploring backend development.
+
+## 📬 Connect with Me
+- 📧 Email: duncanalyssa98@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alyssa-duncan-4bb84b449/
