@@ -1,4 +1,4 @@
-# Hello World 👋! I'm Lysscodes-web
+# Hello World👋! I'm Lysscodes-web
 
 I am an aspiring Computer Science student passionate about building clean code, web development, and diving into backend logic.
 
