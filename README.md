@@ -8,6 +8,20 @@ I am an aspiring Computer Science student passionate about building clean code, 
 - 🌱 Currently learning Python and improving my programming fundamentals.
 - 🌍 Based in New Zealand
 
+## 🚀 Projects
+
+### Interactive NCEA Quiz Website
+
+An interactive quiz website developed as part of my NCEA Digital Technology project.
+
+- Built as a school project.
+- Currently features one completed quiz.
+- Designed to allow additional quizzes to be added in the future.
+
+🌐 [View Live Website](https://lysscodes-web.github.io/ncea-quiz-website/)
+
+💻 [View Source Code](https://github.com/lysscodes-web/ncea-quiz-website)
+
 ### 🛠️ Tech Stack & Tools
 - **Languages:** HTML5, CSS3
 - **Programming (Learning):** Python
