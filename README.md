@@ -22,11 +22,6 @@ An interactive quiz website developed as part of my NCEA Digital Technology proj
 
 💻 [View Source Code](https://github.com/lysscodes-web/ncea-quiz-website)
 
-## 🛠️ Tech Stack & Tools
-- **Languages:** HTML5, CSS3
-- **Programming (Learning):** Python
-- **Tools:** GitHub, VS Code
-
 ## 💻 Tech Stack
 
 ### 🌐 Languages & Web Development
