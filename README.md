@@ -2,7 +2,7 @@
 
 I am an aspiring Computer Science student passionate about building clean code, web development, and diving into backend logic.
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 - 🎓 Incoming Computer Science student.
 - 💻 Interested in software engineering.
 - 🌱 Currently learning Python and improving my programming fundamentals.
@@ -22,12 +22,12 @@ An interactive quiz website developed as part of my NCEA Digital Technology proj
 
 💻 [View Source Code](https://github.com/lysscodes-web/ncea-quiz-website)
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 - **Languages:** HTML5, CSS3
 - **Programming (Learning):** Python
 - **Tools:** GitHub, VS Code
 
-### 📬 Connect with Me
+## 📬 Connect with Me
 - 📧 Email: duncanalyssa98@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/alyssa-duncan-4bb84b449/
 
