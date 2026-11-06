@@ -14,8 +14,3 @@ I am an aspiring Computer Science student passionate about building clean code, 
 ### 📬 Connect with Me
 - 📧 Email: [duncanalyssa98@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/alyssa-duncan-4bb84b449/]
-
----
-
-### 📊 GitHub Stats
-![Lysscode's GitHub Stats](https://vercel.app)
