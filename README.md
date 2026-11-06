@@ -2,13 +2,15 @@
 
 I am an aspiring Computer Science student passionate about building clean code, web development, and diving into backend logic.
 
-### 🚀 About Me
-- 🎓 Incoming Computer Science student
-- 💻 Experienced with building layouts and structuring projects on the web
+### 👩‍💻 About Me
+- 🎓 Incoming Computer Science student.
+- 💻 Interested in software engineering.
+- 🌱 Currently learning Python and improving my programming fundamentals.
+- 🌍 Based in New Zealand
 
 ### 🛠️ Tech Stack & Tools
-- **Languages (Proficient):** HTML5, CSS3
-- **Languages (Learning):** Python
+- **Languages:** HTML5, CSS3
+- **Programming (Learning):** Python
 - **Tools:** GitHub, VS Code
 
 ### 📬 Connect with Me
