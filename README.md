@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Lysscodes-web! 👋
 
-<!--
-**lysscodes-web/lysscodes-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Computer Science student passionate about building clean code, web development, and diving into backend logic.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Incoming Computer Science student
+- 💻 Experienced with building layouts and structuring projects on the web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages (Proficient):** HTML5, CSS3
+- **Languages (Learning):** Python
+- **Tools:** GitHub, VS Code
+
+### 📬 Connect with Me
+- 📧 Email: [duncanalyssa98@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/alyssa-duncan-4bb84b449/]
+
+---
+
+### 📊 GitHub Stats
+![Lysscode's GitHub Stats](https://vercel.app)
