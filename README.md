@@ -34,6 +34,3 @@ I am an aspiring Computer Science student passionate about building clean code, 
 - Improving my JavaScript fundamentals.
 - Developing my Python programming skills.
 - Exploring backend development.
-
-- Developing my Python programming skills.
-- Exploring backend development.
