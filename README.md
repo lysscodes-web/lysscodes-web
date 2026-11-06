@@ -12,5 +12,5 @@ I am an aspiring Computer Science student passionate about building clean code, 
 - **Tools:** GitHub, VS Code
 
 ### 📬 Connect with Me
-- 📧 Email: [duncanalyssa98@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/alyssa-duncan-4bb84b449/]
+- 📧 Email: duncanalyssa98@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alyssa-duncan-4bb84b449/
